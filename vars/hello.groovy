@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello Dosto, video pasand aa rhi ho toh bhai, subscribe!"
+  echo "Hello this is first goovy syntax to call in my git repo "
 }
